@@ -34,7 +34,7 @@ if &t_Co == 256 || has('gui_running')
   hi Identifier   guifg=fg        guibg=NONE      ctermfg=fg     ctermbg=NONE      gui=bold      cterm=bold
   hi Statement    guifg=#87afd7   guibg=NONE      ctermfg=110    ctermbg=NONE      gui=bold      cterm=bold
   hi PreProc      guifg=#d7d7af   guibg=NONE      ctermfg=187    ctermbg=NONE      gui=bold      cterm=bold
-  hi Type         guifg=#afd7d7   guibg=NONE      ctermfg=152    ctermbg=NONE      gui=none      cterm=none
+  hi Type         guifg=#afd7d7   guibg=NONE      ctermfg=152    ctermbg=NONE      gui=bold      cterm=bold
   hi Special      guifg=#d7d7af   guibg=NONE      ctermfg=187    ctermbg=NONE      gui=none      cterm=none
 
   " Text Markup
