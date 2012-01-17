@@ -1,0 +1,16 @@
+Summary:
+This is a low contrast, low distraction, dark 256 color scheme for vim.
+
+Description:
+This is a dark 256 color scheme with mild contrast and not so many colors.
+It is good for prolonged coding. This scheme is inspaired by Lucius
+(vimscript #2536), and some colors here are directly copied.
+
+Screenshots:
+Java: http://imgur.com/KE7aL
+C: http://imgur.com/K5G5V
+Javascript with nerdtree: http://imgur.com/lSXx2
+Ruby with tagbar: http://imgur.com/NzPwu
+
+Installation:
+Copy the file to your vim colors directory and then do :color simple-dark.
