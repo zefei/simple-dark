@@ -4,7 +4,7 @@ This is a low contrast, low distraction, dark 256 color scheme for vim.
 Description:
 This is a dark 256 color scheme with mild contrast and not so many colors.
 It is good for prolonged coding. This scheme is inspaired by Lucius
-(vimscript #2536), and some colors here are directly copied.
+(vimscript #2536).
 
 Screenshots:
 Java: http://imgur.com/KE7aL
