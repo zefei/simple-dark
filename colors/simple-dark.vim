@@ -92,6 +92,6 @@ if &t_Co == 256 || has('gui_running')
   hi Question     guifg=fg        guibg=NONE      ctermfg=fg     ctermbg=NONE      gui=none      cterm=none
   hi WarningMsg   guifg=#d7af87   guibg=NONE      ctermfg=180    ctermbg=NONE      gui=none      cterm=none
   hi WildMenu     guifg=NONE      guibg=#005f87   ctermfg=NONE   ctermbg=24        gui=none      cterm=none
-  hi ColorColumn  guifg=NONE      guibg=#87875f   ctermfg=NONE   ctermbg=101       gui=none      cterm=none
+  hi ColorColumn  guifg=NONE      guibg=#303030   ctermfg=NONE   ctermbg=236       gui=none      cterm=none
   hi Ignore       guifg=bg                        ctermfg=bg
 endif
