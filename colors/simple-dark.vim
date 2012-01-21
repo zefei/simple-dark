@@ -83,7 +83,7 @@ if &t_Co == 256 || has('gui_running')
   hi DiffText     guifg=#e0b050   guibg=#605040   ctermfg=220    ctermbg=58        gui=bold      cterm=bold
 
   " Misc
-  hi Directory    guifg=#afd7d7   guibg=NONE      ctermfg=152    ctermbg=NONE      gui=bold      cterm=bold
+  hi Directory    guifg=fg        guibg=NONE      ctermfg=fg     ctermbg=NONE      gui=bold      cterm=bold
   hi ErrorMsg     guifg=#ff8787   guibg=NONE      ctermfg=210    ctermbg=NONE      gui=none      cterm=none
   hi SignColumn   guifg=#afafaf   guibg=NONE      ctermfg=145    ctermbg=NONE      gui=none      cterm=none
   hi LineNr       guifg=#444444   guibg=#121212   ctermfg=238    ctermbg=233       gui=none      cterm=none
