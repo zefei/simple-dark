@@ -7,10 +7,10 @@ It is good for prolonged coding. This scheme is inspaired by Lucius
 (vimscript #2536).
 
 Screenshots:
-Java: http://imgur.com/KE7aL
-C: http://imgur.com/K5G5V
-Javascript with nerdtree: http://imgur.com/lSXx2
-Ruby with tagbar: http://imgur.com/NzPwu
+Java: http://imgur.com/KE7aL.png
+C: http://imgur.com/K5G5V.png
+Javascript with nerdtree: http://imgur.com/lSXx2.png
+Ruby with tagbar: http://imgur.com/NzPwu.png
 
 Installation:
 Copy the file to your vim colors directory and then do :color simple-dark.
