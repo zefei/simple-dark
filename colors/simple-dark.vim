@@ -60,6 +60,8 @@ hi IncSearch    guifg=bg        guibg=#87ffff   ctermfg=bg     ctermbg=123      
 hi Search       guifg=bg        guibg=#ffd75f   ctermfg=bg     ctermbg=221       gui=none      cterm=none
 
 " UI
+hi LineNr       guifg=#444444   guibg=#121212   ctermfg=238    ctermbg=233       gui=none      cterm=none
+hi CursorLineNr guifg=#8a8a8a   guibg=bg        ctermfg=245    ctermbg=bg        gui=none      cterm=none
 hi Pmenu        guifg=#121212   guibg=#b2b2b2   ctermfg=233    ctermbg=249       gui=none      cterm=none
 hi PmenuSel     guifg=fg        guibg=#585858   ctermfg=fg     ctermbg=240       gui=none      cterm=none
 hi PMenuSbar    guifg=#121212   guibg=#c6c6c6   ctermfg=233    ctermbg=251       gui=none      cterm=none
@@ -89,7 +91,6 @@ hi DiffText     guifg=#e0b050   guibg=#605040   ctermfg=220    ctermbg=58       
 hi Directory    guifg=fg        guibg=NONE      ctermfg=fg     ctermbg=NONE      gui=bold      cterm=bold
 hi ErrorMsg     guifg=#ff8787   guibg=NONE      ctermfg=210    ctermbg=NONE      gui=none      cterm=none
 hi SignColumn   guifg=#afafaf   guibg=NONE      ctermfg=145    ctermbg=NONE      gui=none      cterm=none
-hi LineNr       guifg=#444444   guibg=#121212   ctermfg=238    ctermbg=233       gui=none      cterm=none
 hi MoreMsg      guifg=#87ffff   guibg=NONE      ctermfg=123    ctermbg=NONE      gui=none      cterm=none
 hi ModeMsg      guifg=fg        guibg=NONE      ctermfg=fg     ctermbg=NONE      gui=none      cterm=none
 hi Question     guifg=fg        guibg=NONE      ctermfg=fg     ctermbg=NONE      gui=none      cterm=none
