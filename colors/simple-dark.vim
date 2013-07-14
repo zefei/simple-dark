@@ -1,9 +1,10 @@
 " Summary:
-" This is a low contrast, low distraction, dark 256 color scheme for vim.
+" This is a dark 256-color scheme for vim with mild contrast and low 
+" distraction.
 "
 " Description:
-" This is a dark 256 color scheme with mild contrast and not so many colors.
-" It is good for prolonged coding. This scheme is inspaired by Lucius
+" This is a dark 256-color scheme with mild contrast and not so many colors.
+" It is good for prolonged coding. This scheme is inspired by Lucius
 " (vimscript #2536), and some colors here are directly copied.
 "
 " Screenshots:
